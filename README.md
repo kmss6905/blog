@@ -8,7 +8,7 @@
 * ETC
 
 Project
-* [멘토신청 동시성문제와 해결 기록1](https://velog.io/@kmss6905/%EB%A9%98%ED%86%A0-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EB%8A%A5-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0-1)
+* [멘토 신청 기능 문제 발견 해결기 #1](https://velog.io/@kmss6905/%EB%A9%98%ED%86%A0-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EB%8A%A5-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0-1)
 * [멘토 신청 기능 동시성 이슈 문제 해결기 #2 - 애플리케이션 Level 에서 해결](https://velog.io/@kmss6905/%EB%A9%98%ED%86%A0-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EB%8A%A5-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0-2-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-Level-%EC%97%90%EC%84%9C-%ED%95%B4%EA%B2%B0)
 * [멘토 신청 기능 동시성 이슈 문제 해결기 #3 - DB 의 기능을 활용하기 1 (비관적 동시성 제어)](https://velog.io/@kmss6905/%EB%A9%98%ED%86%A0-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EB%8A%A5-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0-3)
 * [멘토 신청 기능 동시성 이슈 문제 해결기 #4 - DB 의 기능을 활용하기 2 (낙관적 동시성 제어)](https://velog.io/@kmss6905/%EB%A9%98%ED%86%A0-%EC%8B%A0%EC%B2%AD-%EA%B8%B0%EB%8A%A5-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EA%B8%B0-4)

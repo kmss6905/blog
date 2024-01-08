@@ -1,7 +1,15 @@
 package classfinal;
 
 public class Car {
+    private String colorName = "black";
 
+    public void setColorName(String colorName) {
+        this.colorName = colorName;
+    }
+
+    public String getColorName() {
+        return colorName;
+    }
 }
 
 /*

@@ -3,7 +3,8 @@ package variablesfinal.field;
 public class OrderMain {
 
     public static void main(String[] args) {
-        OrderService orderService = new OrderService();
+        ProductRepository productRepository = new ProductRepository();
+        OrderService orderService = new OrderService(productRepository);
         orderService.order(1);
     }
 
